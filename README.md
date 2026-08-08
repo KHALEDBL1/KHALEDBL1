@@ -4,6 +4,13 @@
 
 I am interested in turning data and business needs into clear, practical solutions. My focus is on data analysis, information systems, process improvement, and building useful tools with Python and SQL.
 
+## Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cs,mysql&theme=light&perline=8" alt="HTML, CSS, JavaScript, Java, C, C#, and MySQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" height="48" />
+</p>
+
 ## What I work with
 
 - **Data & systems:** SQL, data analysis, reporting, and troubleshooting
