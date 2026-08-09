@@ -1,4 +1,3 @@
-# Hi, I'm Khalid Bahadilah 👋
 
 **MIS Graduate · Data & Systems Analyst**
 
