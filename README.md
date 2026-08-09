@@ -1,3 +1,4 @@
+# Hi, I'm Khalid Bahadilah 👋
 
 **MIS Graduate · Data & Systems Analyst**
 
@@ -6,7 +7,7 @@ I am interested in turning data and business needs into clear, practical solutio
 ## Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,c,cs,mysql&theme=light&perline=8" alt="HTML, CSS, JavaScript, Java, C, C#, and MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,mysql&theme=light&perline=8" alt="HTML, CSS, JavaScript, Python, Java, C, C#, and MySQL" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL" height="48" />
 </p>
 
