@@ -1,7 +1,8 @@
+# Hi, I'm Khalid Bahadilah 👋
 
 **MIS Graduate · Data & Systems Analyst**
 
-I am interested in turning data and business needs into clear, practical solutions. My focus is on data analysis, information systems, process improvement, and building useful tools with Python and SQL.
+I am interested in turning data and business needs into clear, practical solutions. My focus is on data analysis, information systems, process improvement, and building useful software and web solutions.
 
 ## Languages & Tools
 
@@ -12,8 +13,9 @@ I am interested in turning data and business needs into clear, practical solutio
 
 ## What I work with
 
-- **Data & systems:** SQL, data analysis, reporting, and troubleshooting
-- **Programming:** Python
+- **Programming:** Python, Java, C, C#, and JavaScript
+- **Web development:** HTML and CSS
+- **Data & systems:** SQL, MySQL, data analysis, reporting, and troubleshooting
 - **Focus areas:** Business analysis, artificial intelligence, cybersecurity, and government data
 
 ## Certifications
