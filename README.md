@@ -1,6 +1,6 @@
 # Khalid Bahadilah
 
-MIS graduate building a portfolio for entry-level data analysis and reporting roles.
+Management Information Systems graduate focused on data analysis, SQL, Power BI, Python, and practical problem-solving.
 
 ## Selected projects
 
